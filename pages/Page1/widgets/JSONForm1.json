@@ -5,7 +5,7 @@
     "topRow": 35,
     "type": "JSON_FORM_WIDGET",
     "animateLoading": true,
-    "leftColumn": 17,
+    "leftColumn": 23,
     "dynamicBindingPathList": [
         {"key": "borderRadius"},
         {"key": "boxShadow"},
@@ -137,7 +137,7 @@
     "key": "yolr5j0w33",
     "backgroundColor": "#fff",
     "isDeprecated": false,
-    "rightColumn": 42,
+    "rightColumn": 48,
     "thumbnailSVG": "https://appcdn.appsmith.com/static/media/thumbnail.1092bbfe332a9ea2da2aa7e3efd01db2.svg",
     "widgetId": "rfnv01fi30",
     "minWidth": 450,
