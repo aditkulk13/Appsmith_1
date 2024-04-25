@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 920,
+          "bottomRow": 770,
           "containerStyle": "none",
           "snapRows": 128,
           "parentRowSpace": 1,
@@ -49,6 +49,6 @@
     "policies": [],
     "isHidden": false
   },
-  "deleted": false,
-  "gitSyncId": "660653e39dcec80ee314139e_6606548c8fd5155c4b5d77d8"
+  "gitSyncId": "660653e39dcec80ee314139e_6606548c8fd5155c4b5d77d8",
+  "deleted": false
 }
